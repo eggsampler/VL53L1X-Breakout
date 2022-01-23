@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+1u,"C1,C2",Capacitor_SMD:C_0603_1608Metric, C15849
+100n,C3,Capacitor_SMD:C_0603_1608Metric,C14663
+4.7u,C4,Capacitor_SMD:C_0603_1608Metric,C19666
+4.7K,"R1,R2,R3,R4",Resistor_SMD:R_0603_1608Metric,C23162
+XC6206PxxxMR,U1,Package_TO_SOT_SMD:SOT-23,C5446
+VL53L1CXV0FY1,U2,Sensor_Distance:ST_VL53L1x,C190004
